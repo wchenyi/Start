@@ -2,32 +2,32 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "link": "https://wangcy.cam"
   },
   {
-    "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "icon": "IosSchool",
+    "name": "学院起始页",
+    "link": "https://ycu.wangcy.cam/"
   },
   {
-    "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "icon": "CalendarPerson16Filled",
+    "name": "个人网站",
+    "link": "https://wchenyi.github.io"
   },
   {
-    "icon": "Compass",
+    "icon": "Search",
     "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "link": "https://wchenyi.github.io/Auto-search"
   },
   {
-    "icon": "Book",
-    "name": "网址集",
+    "icon": "https://wchenyi.github.io/Wallpaper/",
+    "name": "壁纸集",
     "link": "https://web.imsyy.top/"
   },
   {
-    "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
+    "icon": "GiftCardMoney24Filled",
+    "name": "求赞小窝",
+    "link": "https://donate.wangcy.site"
   },
   {
     "icon": "LaptopCode",
