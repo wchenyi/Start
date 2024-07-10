@@ -43,7 +43,7 @@
 <script setup>
 import { Icon } from "@vicons/utils";
 // 可前往 https://www.xicons.org 自行挑选并在此处引入
-import { Link, Blog, IosSchool, CalendarPerson16Filled, Search, Wallpaper, GiftCardMoney24Filled } from "@vicons/fa"; // 注意使用正确的类别
+import { Link, Blog, School, HatCowboy, Search, PhotoVideo, HandHoldingHeart } from "@vicons/fa"; // 注意使用正确的类别
 import { mainStore } from "@/store";
 import { Swiper, SwiperSlide } from "swiper/vue";
 import { Pagination, Mousewheel } from "swiper/modules";
@@ -64,11 +64,11 @@ const siteLinksList = computed(() => {
 // 网站链接图标
 const siteIcon = {
   Blog,
-  IosSchool,
-  CalendarPerson16Filled,
+  School,
+  HatCowboy,
   Search,
-  Wallpaper,
-  GiftCardMoney24Filled,
+  PhotoVideo,
+  HandHoldingHeart,
 };
 
 // 链接跳转
