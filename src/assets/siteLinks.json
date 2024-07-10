@@ -5,12 +5,12 @@
     "link": "https://wangcy.cam"
   },
   {
-    "icon": "IosSchool",
+    "icon": "School",
     "name": "学院起始页",
     "link": "https://ycu.wangcy.cam/"
   },
   {
-    "icon": "CalendarPerson16Filled",
+    "icon": "PhotoVideo",
     "name": "个人网站",
     "link": "https://wchenyi.github.io"
   },
@@ -25,7 +25,7 @@
     "link": "https://wchenyi.github.io/Wallpaper"
   },
   {
-    "icon": "GiftCardMoney24Filled",
+    "icon": "HandHoldingHeart",
     "name": "求赞小窝",
     "link": "https://donate.wangcy.site"
   }
