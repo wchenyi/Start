@@ -25,7 +25,7 @@
   },
   {
     "name": "xiaohongshu",
-    "icon": "/images/icon/xiaohongshu.png",
+    "icon": "public/images/icon/xiaohongshu.png",
     "tip": "欢迎关注我的小红书",
     "url": "https://www.xiaohongshu.com/user/profile/659fd938000000002001cef5"
   },
@@ -34,5 +34,5 @@
     "icon": "/images/icon/小红书.png",
     "tip": "欢迎关注我的小红书",
     "url": "https://www.xiaohongshu.com/user/profile/6332893f000000002303a73b"
-  },
+  }
 ]
