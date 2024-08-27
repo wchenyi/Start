@@ -5,9 +5,9 @@
     "link": "https://wangcy.cam"
   },
   {
-    "icon": "School",
-    "name": "学院起始页",
-    "link": "https://ycu.wangcy.cam/"
+    "icon": "Music",
+    "name": "我的音乐",
+    "link": "https://music.wangcy.site"
   },
   {
     "icon": "HatCowboy",
@@ -28,5 +28,10 @@
     "icon": "HandHoldingHeart",
     "name": "求赞小窝",
     "link": "https://donate.wangcy.site"
+  },
+  {
+    "icon": "School",
+    "name": "学院起始页",
+    "link": "https://ycu.wangcy.cam/"
   }
 ]
