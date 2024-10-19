@@ -34,4 +34,9 @@
     "name": "学院起始页",
     "link": "https://ycu.wangcy.cam/"
   }
+ {
+    "icon": "School",
+    "name": "每日热点",
+    "link": "https://hot.wangcy.cam/"
+  }
 ]
