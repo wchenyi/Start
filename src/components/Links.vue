@@ -43,7 +43,7 @@
 <script setup>
 import { Icon } from "@vicons/utils";
 // 可前往 https://www.xicons.org 自行挑选并在此处引入
-import { Link, Blog, School, HatCowboy, Search, PhotoVideo, HandHoldingHeart, Fire, Music } from "@vicons/fa"; // 注意使用正确的类别
+import { Link, Blog, School, HatCowboy, Search, PhotoVideo, HandHoldingHeart, Fire, Music, Bookmark } from "@vicons/fa"; // 注意使用正确的类别
 import { mainStore } from "@/store";
 import { Swiper, SwiperSlide } from "swiper/vue";
 import { Pagination, Mousewheel } from "swiper/modules";
@@ -71,6 +71,7 @@ const siteIcon = {
   HandHoldingHeart,
   Music,
   Fire,
+  Bookmark,
 };
 
 // 链接跳转
