@@ -38,5 +38,10 @@
     "icon": "Fire",
     "name": "每日热点",
     "link": "https://hot.wangcy.cam/"
+  },
+  {
+    "icon": "Bookmark",
+    "name": "我的收藏",
+    "link": "https://wang01116.github.io/pintree/"
   }
 ]
